@@ -1,5 +1,6 @@
 # Day-1-Subway_Surf_Farrelio_Yoshi
-Nama  : Farrelio Yoshi
+Nama      : Farrelio Yoshi
+Kelompok  : 11 Subway Surf
 
 Deskripsi:
 Repository ini berisi dokumentasi workshop "From AI to GitHub:
