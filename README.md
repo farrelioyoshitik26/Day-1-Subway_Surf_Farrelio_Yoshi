@@ -10,6 +10,7 @@ Tujuan:
 Mendokumentasikan materi, catatan, dan hasil praktik workshop.
 
 Rangkuman Materi:
+
 Prompt Engineering
 - Prompt adalah instruksi atau masukan kepada AI untuk mendapatkan hasil tertentu.
 - Prompt engineering adalah cara merancang instruksi agar jawaban AI tepat, relevan, dan layak digunakan.
